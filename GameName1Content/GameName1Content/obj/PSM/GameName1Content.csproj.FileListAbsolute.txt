@@ -1,0 +1,9 @@
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\Content\Content\ship.xnb
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\IgnoreMe.dll
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\obj\PSM\GameName1Content.csprojResolveAssemblyReference.cache
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\obj\PSM\IgnoreMe.dll
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\Content\Content\background.xnb
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\Content\Content\earth.xnb
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\Content\Content\shuttle.xnb
+C:\Users\Roger\documents\visual studio 2013\Projects\GameName1\GameName1Content\GameName1Content\bin\PSM\Content\Content\stars.xnb
